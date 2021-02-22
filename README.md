@@ -12,7 +12,7 @@ Python script to automatically send new files (in folder) to a contact (or group
 2. Absolute Path of the folder you need to track
 3. Frequency of tracking the folder
 
-![Snap](screens/InputExample.png)
+![Snap](screens/InputEg.png)
 
 ### Step2(Open Web Whatsapp):
 Open Your Whatsapp on the Web whatsapp page in the Chromium Browser's instance
