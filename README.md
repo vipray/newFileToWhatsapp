@@ -26,3 +26,14 @@ Open Your Whatsapp on the Web whatsapp page in the Chromium Browser's instance
 3. Attach the file
 4. Send it.
 5. Repeat :)
+
+#### Development Environment:
+Python 3.7.6
+Ubuntu 20.04.2 LTS (64-bit)
+
+#### UseCases:
+1. To share live logs of under development application with the team members.
+
+#### References:
+1. https://medium.com/data-science-community-srm/whatsapp-automation-with-selenium-a4fbaff625a0
+2. https://www.geeksforgeeks.org/whatsapp-using-python/
