@@ -11,11 +11,13 @@ Python script to automatically send new files (in folder) to a contact (or group
 1. Contact(or Group name) to whom you want to send the file.
 2. Absolute Path of the folder you need to track
 3. Frequency of tracking the folder
+
 ![Snap](screens/InputExample.png)
 
 ### Step2(Open Web Whatsapp):
 Open Your Whatsapp on the Web whatsapp page in the Chromium Browser's instance
 (Instance will open automatically after the step1)
+
 ![Snap](screens/ChromiumSnapShot.png)
 
 ### Step3(Let the Script Handle from here):
