@@ -29,6 +29,7 @@ Open Your Whatsapp on the Web whatsapp page in the Chromium Browser's instance
 
 #### Development Environment:
 Python 3.7.6
+
 Ubuntu 20.04.2 LTS (64-bit)
 
 #### UseCases:
