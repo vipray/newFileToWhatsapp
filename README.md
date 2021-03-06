@@ -3,8 +3,10 @@ Python script to automatically send new files (in folder) to a contact (or group
 
 ### Installation Requirement:
 1. Install selenium (pip install selenium)
-2. Download Chrome driver (https://chromedriver.storage.googleapis.com/index.html?path=2.36/)
+2. Download Chrome driver having same version as per the Chrome Browser of your system. (https://chromedriver.chromium.org/downloads)
     You also need to pass the path of 'chromedriver'. For simplicity you can put it in the same folder where script.py resides.
+![Snap](screens/chromeVersion.JPG)
+
 3. Chromium Web Browser (sudo apt-get install chromium-browser)
 
 ### Step1(Inputs):
